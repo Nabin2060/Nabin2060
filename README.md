@@ -15,7 +15,7 @@
 - 💡 Exploring the power of **Blockchain, Ethereum, and Smart Contracts with Solidity**
 - 🧪 Currently experimenting with **AI integration in Fullstack apps**
 - 📫 Reach me at: **adhikarinabin2060@gmail.com**
-- 🌍 Portfolio: [nabin2060.github.io/portfolio](https://nabin-portfolio-blush.vercel.app/)
+- 🌍 Portfolio: [nabin2060.github.io/portfolio](https://nabin-portfolio-tydk.vercel.app/)
 - - 💼 LinkedIn: [linkedin.com/in/nabin-adhikari2060](https://www.linkedin.com/in/nabin-adhikari-778b57291/)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: *Hackathons = My Playground ⚔️*
