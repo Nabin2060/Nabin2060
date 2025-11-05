@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 **SWE | Full Stack Developer | MERN Stack | Blockchain | Web3 | AI | Smart Contract Developer**
+- 🧠 **Full Stack Developer | MERN Stack |Learn Blockchain | Web3 | Learn AI | Smart Contract Developer**
 - 🔭 Currently working as a **Full Stack Developer **
 - 🚀 Passionate about **building scalable, modern, and secure web applications**
 - 💡 Exploring the power of **Blockchain, Ethereum, and Smart Contracts with Solidity**
